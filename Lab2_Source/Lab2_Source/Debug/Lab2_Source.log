@@ -1,0 +1,3 @@
+﻿  Mesh.cpp
+D:\Peter Linh\Computer Graphic\Lab 2\Lab2_Source\Lab2_Source\Mesh.cpp(1159,10): warning C4101: 'iStop': unreferenced local variable
+  Lab2_Source.vcxproj -> D:\Peter Linh\Computer Graphic\Lab 2\Lab2_Source\Debug\Lab2_Source.exe
